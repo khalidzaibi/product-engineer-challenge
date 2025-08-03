@@ -4,6 +4,8 @@
 
 A fully containerized Laravel + Vue.js application with user, task, and team management, built using Docker.
 
+-   I've also included the Postman API collection (Product-Engineer.postman_collection.json) in the repository for easier testing
+
 ---
 
 ## ✅ Full Project Setup Guide
