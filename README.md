@@ -15,7 +15,6 @@ Follow all steps below to install and configure this project on your local machi
 ## 📋 Prerequisites
 
 -   [Docker](https://www.docker.com/)
--   [Docker Compose](https://docs.docker.com/compose/)
 
 ---
 
@@ -24,8 +23,8 @@ Follow all steps below to install and configure this project on your local machi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-project.git
-cd your-project
+git clone https://github.com/khalidzaibi/product-engineer-challenge.git
+cd product-engineer-challenge
 ```
 
 ### 2. Copy the Environment File
